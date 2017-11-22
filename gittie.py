@@ -9,3 +9,7 @@ def introduce():
 
 def joke():
     print("a joke")
+
+def shout():
+    print("shout")
+    
