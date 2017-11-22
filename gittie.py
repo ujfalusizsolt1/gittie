@@ -12,4 +12,4 @@ def joke():
 
 
 def shout():
-    print("RAWR")
+    print("shout")
