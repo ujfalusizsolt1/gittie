@@ -3,8 +3,8 @@ def add(a, b):
 
 
 def introduce():
-    print("Hello, I'm Gittie!")
-    print("Bela")
+    print("Hello, I'm Potato!")
+
 
 def joke():
     print("a joke")
